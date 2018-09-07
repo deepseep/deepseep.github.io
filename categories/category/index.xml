@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on 主公的个人博客</title>
+    <link>https://deepseep.github.io/categories/category/</link>
+    <description>Recent content in Category on 主公的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Sep 2018 12:07:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://deepseep.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自律与高效</title>
+      <link>https://deepseep.github.io/2018/09/%E8%87%AA%E5%BE%8B%E4%B8%8E%E9%AB%98%E6%95%88/</link>
+      <pubDate>Fri, 07 Sep 2018 12:07:43 +0800</pubDate>
+      
+      <guid>https://deepseep.github.io/2018/09/%E8%87%AA%E5%BE%8B%E4%B8%8E%E9%AB%98%E6%95%88/</guid>
+      <description>随着自己最近工作的变动，慢慢的越来越觉得自律对我来说非常重要；以前其实没有意识到这方面的问题。。。</description>
+    </item>
+    
+  </channel>
+</rss>
